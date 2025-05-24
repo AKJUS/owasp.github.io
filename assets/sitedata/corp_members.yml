@@ -668,3 +668,13 @@
   job_url:
   description: >-
     Zelvin Security is a penetration testing and proactive cyber security consulting company. Our primary vision is to help businesses protect themselves from malicious hackers. We perform network, mobile, and application penetration tests against large and small businesses throughout the United States with the goal of reducing cyber risks and making it more difficult for cybercriminals to carry out their cyber-attacks.
+- member: true
+  sponosr: -1
+  name: Adobe
+  sortname: Adobe
+  membertype: 2
+  image: /assets/images/corp-member-logo/Adobe.png
+  URL: http://trust.adobe.com
+  job_url: https://www.adobe.com/careers.html
+  description: >-
+    Changing the world through personalized digital experiences. Adobe empowers everyone, everywhere to imagine, create, and bring any digital experience to life. From creators and students to small businesses, global enterprises, and nonprofit organizations — customers choose Adobe products to ideate, collaborate, be more productive, drive business growth, and build remarkable experiences.
