@@ -3061,16 +3061,16 @@
     {
         "name": "Swapna Rani",
         "email": "swapna.rani@owasp.org",
-        "group": "OWASP KG Reddy College of Engineering and Technology, Hyderabad",
+        "group": "OWASP KG Reddy College of Engineering and Technology",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology-hyderabad/"
+        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology/"
     },
     {
         "name": "Jashanth Gonipati",
         "email": "jashanth.gonipati@owasp.org",
-        "group": "OWASP KG Reddy College of Engineering and Technology, Hyderabad",
+        "group": "OWASP KG Reddy College of Engineering and Technology",
         "group-type": "chapter",
-        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology-hyderabad/"
+        "group_url": "https://owasp.org/www-chapter-kgreddy-college-engineering-technology/"
     },
     {
         "name": "Vitalii Balashow",
@@ -5699,7 +5699,14 @@
     },
     {
         "name": "Hyunjeong Lee",
-        "email": "hyunjeong.lee@owasp.org@owasp.org",
+        "email": "hyunjeong.lee@owasp.org",
+        "group": "OWASP Seoul",
+        "group-type": "chapter",
+        "group_url": "https://owasp.org/www-chapter-seoul/"
+    },
+    {
+        "name": "Shinwoo Kang",
+        "email": "kang.shin.woo@owasp.org",
         "group": "OWASP Seoul",
         "group-type": "chapter",
         "group_url": "https://owasp.org/www-chapter-seoul/"
